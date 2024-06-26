@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textcolor">#fdfcdc</color>
+    <color name="backpage">#0081a7</color>
+    <color name="button">#EB9649</color>
+    <color name="butd">#fed9b7</color>
+    <color name="stext">#ffbf69</color>
+    <color name="sback">#ff9f1c</color>
+    <color name="sbut">#2ec4b6</color>
+
+</resources>
